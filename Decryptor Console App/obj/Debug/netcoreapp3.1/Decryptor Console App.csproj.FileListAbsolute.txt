@@ -1,0 +1,36 @@
+C:\Users\chad.eymard\source\repos\Decryptor Solution\Decryptor Console App\bin\Debug\netcoreapp3.1\Decryptor Console App.exe
+C:\Users\chad.eymard\source\repos\Decryptor Solution\Decryptor Console App\bin\Debug\netcoreapp3.1\Decryptor Console App.deps.json
+C:\Users\chad.eymard\source\repos\Decryptor Solution\Decryptor Console App\bin\Debug\netcoreapp3.1\Decryptor Console App.runtimeconfig.json
+C:\Users\chad.eymard\source\repos\Decryptor Solution\Decryptor Console App\bin\Debug\netcoreapp3.1\Decryptor Console App.runtimeconfig.dev.json
+C:\Users\chad.eymard\source\repos\Decryptor Solution\Decryptor Console App\bin\Debug\netcoreapp3.1\Decryptor Console App.dll
+C:\Users\chad.eymard\source\repos\Decryptor Solution\Decryptor Console App\bin\Debug\netcoreapp3.1\Decryptor Console App.pdb
+C:\Users\chad.eymard\source\repos\Decryptor Solution\Decryptor Console App\bin\Debug\netcoreapp3.1\ChilkatDnCore.dll
+C:\Users\chad.eymard\source\repos\Decryptor Solution\Decryptor Console App\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\chad.eymard\source\repos\Decryptor Solution\Decryptor Console App\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\chad.eymard\source\repos\Decryptor Solution\Decryptor Console App\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\chad.eymard\source\repos\Decryptor Solution\Decryptor Console App\bin\Debug\netcoreapp3.1\Microsoft.VisualBasic.dll
+C:\Users\chad.eymard\source\repos\Decryptor Solution\Decryptor Console App\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libchilkatDnCore-9_5_0.so
+C:\Users\chad.eymard\source\repos\Decryptor Solution\Decryptor Console App\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libchilkatDnCore-9_5_0.so
+C:\Users\chad.eymard\source\repos\Decryptor Solution\Decryptor Console App\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libchilkatDnCore-9_5_0.so
+C:\Users\chad.eymard\source\repos\Decryptor Solution\Decryptor Console App\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libchilkatDnCore-9_5_0.so
+C:\Users\chad.eymard\source\repos\Decryptor Solution\Decryptor Console App\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libchilkatDnCore-9_5_0.dylib
+C:\Users\chad.eymard\source\repos\Decryptor Solution\Decryptor Console App\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\chilkatDnCore-9_5_0.dll
+C:\Users\chad.eymard\source\repos\Decryptor Solution\Decryptor Console App\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\chilkatDnCore-9_5_0.dll
+C:\Users\chad.eymard\source\repos\Decryptor Solution\Decryptor Console App\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libuv.so
+C:\Users\chad.eymard\source\repos\Decryptor Solution\Decryptor Console App\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libuv.so
+C:\Users\chad.eymard\source\repos\Decryptor Solution\Decryptor Console App\bin\Debug\netcoreapp3.1\runtimes\opensuse-x64\native\libuv.so
+C:\Users\chad.eymard\source\repos\Decryptor Solution\Decryptor Console App\bin\Debug\netcoreapp3.1\runtimes\osx\native\libuv.dylib
+C:\Users\chad.eymard\source\repos\Decryptor Solution\Decryptor Console App\bin\Debug\netcoreapp3.1\runtimes\rhel-x64\native\libuv.so
+C:\Users\chad.eymard\source\repos\Decryptor Solution\Decryptor Console App\bin\Debug\netcoreapp3.1\runtimes\win7-arm\native\libuv.dll
+C:\Users\chad.eymard\source\repos\Decryptor Solution\Decryptor Console App\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\libuv.dll
+C:\Users\chad.eymard\source\repos\Decryptor Solution\Decryptor Console App\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\libuv.dll
+C:\Users\chad.eymard\source\repos\Decryptor Solution\Decryptor Console App\bin\Debug\netcoreapp3.1\Decryptor Library.dll
+C:\Users\chad.eymard\source\repos\Decryptor Solution\Decryptor Console App\bin\Debug\netcoreapp3.1\Decryptor Library.pdb
+C:\Users\chad.eymard\source\repos\Decryptor Solution\Decryptor Console App\obj\Debug\netcoreapp3.1\Decryptor Console App.csprojAssemblyReference.cache
+C:\Users\chad.eymard\source\repos\Decryptor Solution\Decryptor Console App\obj\Debug\netcoreapp3.1\Decryptor Console App.AssemblyInfoInputs.cache
+C:\Users\chad.eymard\source\repos\Decryptor Solution\Decryptor Console App\obj\Debug\netcoreapp3.1\Decryptor Console App.AssemblyInfo.cs
+C:\Users\chad.eymard\source\repos\Decryptor Solution\Decryptor Console App\obj\Debug\netcoreapp3.1\Decryptor Console App.csproj.CoreCompileInputs.cache
+C:\Users\chad.eymard\source\repos\Decryptor Solution\Decryptor Console App\obj\Debug\netcoreapp3.1\Decryptor Console App.csproj.CopyComplete
+C:\Users\chad.eymard\source\repos\Decryptor Solution\Decryptor Console App\obj\Debug\netcoreapp3.1\Decryptor Console App.dll
+C:\Users\chad.eymard\source\repos\Decryptor Solution\Decryptor Console App\obj\Debug\netcoreapp3.1\Decryptor Console App.pdb
+C:\Users\chad.eymard\source\repos\Decryptor Solution\Decryptor Console App\obj\Debug\netcoreapp3.1\Decryptor Console App.genruntimeconfig.cache

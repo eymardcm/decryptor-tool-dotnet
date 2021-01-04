@@ -1,0 +1,16 @@
+﻿<Window x:Class="Decryptor_WPF_App.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Decryptor_WPF_App"
+        mc:Ignorable="d"
+        Title="Decryptor Tool" Height="450" Width="800">
+    <Grid>
+        <Label Content="securedData" HorizontalAlignment="Left" Margin="124,100,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.696,0.515"/>
+        <Label Content="wrappingKey" HorizontalAlignment="Left" Margin="124,0,0,0" VerticalAlignment="Center" RenderTransformOrigin="0.592,0.668" Width="91"/>
+        <TextBox x:Name="text_securedData" HorizontalAlignment="Left" Margin="247,104,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="430" Height="85"/>
+        <TextBox x:Name="text_wrappingKey" HorizontalAlignment="Left" Margin="247,0,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Center" Width="430"/>
+        <Button x:Name="btn_decipher" Content="Decipher" HorizontalAlignment="Left" Margin="250,258,0,0" VerticalAlignment="Top" Height="25" Width="78" Click="Decipher_Button_Click"/>
+    </Grid>
+</Window>
